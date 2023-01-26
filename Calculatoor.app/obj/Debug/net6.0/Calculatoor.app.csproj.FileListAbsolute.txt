@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\bin\Debug\net6.0\Calculatoor.app.exe
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\bin\Debug\net6.0\Calculatoor.app.deps.json
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\bin\Debug\net6.0\Calculatoor.app.runtimeconfig.json
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\bin\Debug\net6.0\Calculatoor.app.dll
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\bin\Debug\net6.0\Calculatoor.app.pdb
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.dll
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\refint\Calculatoor.app.dll
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.pdb
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\Calculatoor.app.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Calculator\Calculatoor.app\obj\Debug\net6.0\ref\Calculatoor.app.dll
